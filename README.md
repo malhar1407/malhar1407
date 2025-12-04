@@ -1,26 +1,67 @@
-# Hi there, I'm Malhar Shinde 👋
+<h1 align="center">Hi 👋, I'm Malhar Shinde</h1>
+<h3 align="center">M.Tech Student | AI & ML Enthusiast | Building Intelligent Systems</h3>
 
-## About Me
-🎓 M.Tech student at **Symbiosis Institute of Technology**  
-🤖 Specializing in **Artificial Intelligence and Machine Learning**  
-💡 Passionate about building intelligent systems and solving real-world problems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malhar1407&label=Profile%20views&color=0e75b6&style=flat" alt="malhar1407" />
+</p>
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## 🎓 About Me
+- 🔭 Currently pursuing **M.Tech in Artificial Intelligence and Machine Learning** at **Symbiosis Institute of Technology**
+- 🌱 Learning **Advanced Deep Learning, MLOps, and NLP**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 📫 Reach me at **[malhar1407](https://github.com/malhar1407)**
+
+## 🛠️ Skills & Technologies
+
+### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
+
+### AI/ML & Data Science
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
-![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhar1407&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-- Advanced Deep Learning techniques
-- MLOps and model deployment
-- Natural Language Processing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malhar1407&show_icons=true&theme=radical&hide_border=true" alt="malhar1407" />
+</p>
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/malhar1407)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malhar1407&theme=radical&hide_border=true" alt="malhar1407" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malhar1407&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="malhar1407" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malhar1407&theme=radical&no-frame=true&row=1&column=7" alt="malhar1407" />
+</p>
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malhar1407&theme=react-dark&hide_border=true" alt="malhar1407" />
+</p>
 
 ---
-⭐️ From [malhar1407](https://github.com/malhar1407)
+<p align="center">⭐️ From <a href="https://github.com/malhar1407">malhar1407</a></p>
