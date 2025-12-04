@@ -41,17 +41,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malhar1407&show_icons=true&theme=radical&hide_border=true" alt="malhar1407" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malhar1407&theme=radical&hide_border=true" alt="malhar1407" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malhar1407&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="malhar1407" />
-</p>
+
 
 
 ## 📈 Activity Graph
