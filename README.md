@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Malhar Shinde 👋
 
-<!--
-**malhar1407/malhar1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 M.Tech student at **Symbiosis Institute of Technology**  
+🤖 Specializing in **Artificial Intelligence and Machine Learning**  
+💡 Passionate about building intelligent systems and solving real-world problems
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhar1407&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Advanced Deep Learning techniques
+- MLOps and model deployment
+- Natural Language Processing
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/malhar1407)
+
+---
+⭐️ From [malhar1407](https://github.com/malhar1407)
