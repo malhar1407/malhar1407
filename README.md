@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Malhar Shinde</h1>
-<h3 align="center">M.Tech Student | AI & ML Enthusiast | Building Intelligent Systems</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Malhar%20Shinde&textBg=false&fontAlign=50&reversal=true" alt="Malhar Shinde's Header" width="100%" />
+</p>
+
+<p align="center">
+  M.Tech Student | AI & ML Enthusiast | Building Intelligent Systems
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malhar1407&label=Profile%20views&color=0e75b6&style=flat" alt="malhar1407" />
@@ -41,14 +46,9 @@
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malhar1407&theme=radical&hide_border=true" alt="malhar1407" />
 </p>
-
-
-
 
 ## 📈 Activity Graph
 <p align="center">
