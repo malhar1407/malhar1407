@@ -9,7 +9,7 @@
 - 🔭 Currently pursuing **M.Tech in Artificial Intelligence and Machine Learning** at **Symbiosis Institute of Technology**
 - 🌱 Learning **Advanced Deep Learning, MLOps, and NLP**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
-- 📫 Reach me at **[malhar1407](https://github.com/malhar1407)**
+- 📫 Reach me at **[malhar1407](https://www.linkedin.com/in/malhar-shinde)**
 
 ## 🛠️ Skills & Technologies
 
@@ -53,10 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malhar1407&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="malhar1407" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malhar1407&theme=radical&no-frame=true&row=1&column=7" alt="malhar1407" />
-</p>
 
 ## 📈 Activity Graph
 <p align="center">
